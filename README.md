@@ -23,7 +23,7 @@ I worked closely with the client to:
 - Build a responsive and accessible layout
 - Improve clarity, usability and performance
 - Deploy the final site to production
-
+ 
 ---
 
 ## Tech Stack
