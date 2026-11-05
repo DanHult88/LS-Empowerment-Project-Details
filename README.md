@@ -1,60 +1,32 @@
-# LS Empowerment – Business Website. 
+# LS Empowerment
 
-Production website built for **LS Empowerment**, a coaching and empowerment company offering individual coaching, group sessions and workshops.
+A website I built for **LS Empowerment**, a coaching business offering individual coaching, group sessions, and workshops.
 
-This was real client work, focused on turning business goals into a clear, trustworthy and easy-to-use website.
+The goal was to create a welcoming and easy-to-navigate website where visitors could learn about the business, explore its services, and get in touch.
 
----
+## About the project
 
-## Overview.
+I worked with the client to turn their ideas and content into a functioning website. A big part of the work was finding a layout that suited the business while keeping the information clear and easy to follow.
 
-- **Client:** LS Empowerment   
-- **Type:** Business / marketing website   
-- **Status:** Delivered and in use  
+I focused on making the site responsive across different screen sizes, keeping navigation straightforward, and making sure visitors could easily find what they were looking for.
 
----   
+The website is now live and in use.
 
-## My Role
+## Built with
 
-**Frontend / Web Developer** 
+- React
+- JavaScript
+- CSS
+- Vercel (deployment)
 
-I worked closely with the client to:
-- Turn their ideas and content into a structured design
-- Build a responsive and accessible layout
-- Improve clarity, usability and performance
-- Deploy the final site to production
- 
----
+## What I worked on
 
-## Tech Stack
+- Planning the layout and organizing the content
+- Building and styling the website
+- Making the layout responsive for desktop and mobile
+- Working with the client's feedback and making adjustments
+- Deploying the finished website through Vercel
 
-- React  
-- JavaScript (ES6+)  
-- CSS   
-- Vercel  
+## Live website
 
---- 
-
-## Key Challenges
-
-- Structuring a lot of content without overwhelming users  
-- Matching a calm, trustworthy visual style with clear calls to action  
-- Making sure the site worked well on all screen sizes   
-
----
-
-## Result
-
-- Live, production-ready website for a real business  
-- Clear presentation of services and offerings  
-- Strong focus on usability, responsiveness and performance  
-
----
-
-## Live Site
-
-👉 **[Visit the live website](https://ls-empowerment.vercel.app/)**
-
----
-
-
+**[Visit LS Empowerment](https://ls-empowerment.vercel.app/)**
